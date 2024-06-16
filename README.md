@@ -37,11 +37,17 @@ Make sure you select USB Flash Drive when prompted to download the file directly
 THIRD IS RUNNING THE WINDOWS 11 FROM A USB FILE
 Plug the USB drive into the computer and restart the computer.
 Before the computer fully turns back on, hold the F8 key. The exact command will depend on your computer. 
+![Boot Order](https://github.com/FRIEZEWANDABWA/se-assignment-1-setting-up-your-developer-environment-FRIEZEWANDABWA/blob/8360489a62beaf682f83c7adf78cd5804b2afdd8/boot%20order.png)
+
 When prompted, choose the boot order and select the USB drive option as first. You’ll then be told to press any key to continue booting from your specified location.
 Your computer should start up as normal, but with Windows 11 prepared to install and run at the startup screen.
-
+![Window setup](https://github.com/FRIEZEWANDABWA/se-assignment-1-setting-up-your-developer-environment-FRIEZEWANDABWA/blob/8360489a62beaf682f83c7adf78cd5804b2afdd8/window%20setup.png)
+Select the operating system that you want to install
+![Operating system](https://github.com/FRIEZEWANDABWA/se-assignment-1-setting-up-your-developer-environment-FRIEZEWANDABWA/blob/8360489a62beaf682f83c7adf78cd5804b2afdd8/window%20setup%202.png)
+Click next on the installation instruction that will apprear on the screen.
+![Installing windows](https://github.com/FRIEZEWANDABWA/se-assignment-1-setting-up-your-developer-environment-FRIEZEWANDABWA/blob/8360489a62beaf682f83c7adf78cd5804b2afdd8/installation%20of%20files.png)
 After the above process, you will need to set up accout and preferences that you will use to login.
-
+![Finish installation](https://github.com/FRIEZEWANDABWA/se-assignment-1-setting-up-your-developer-environment-FRIEZEWANDABWA/blob/8360489a62beaf682f83c7adf78cd5804b2afdd8/finish%20installation.png)
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download

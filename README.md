@@ -13,6 +13,36 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+
+FIRST PROCESS BEFORE THE INSTALATION,CHECK FOR COMPATIBILITY. the minimus specs should be:
+4-bit processor with at least 2 cores and 1 GHz processing speed
+4GB RAM
+64GB storage space (in addition to the space for the operating system installation software)
+DirectX 12 or later graphics card with WDDM 2.0 driver
+A high-def display of 720p
+TPM 2.0
+Secure Boot-capable UEFI firmware
+
+SECOND PROCEEDURE IS TO DOWNLOAD THE ISO FILE 
+Visit the site https://www.microsoft.com/software-download/windows11 to download the media creation tool.
+Navigate to the Create Windows 11 installation media link, and click Download Now.
+
+The download for the Media Creation Tool will begin.
+Once the tool downloads, double-click on the file in your download and run it. You may be asked for permission to run the program, so go ahead and approve it.
+Now that you have the Media Creation Tool running, follow the directions to download the ISO file (the file used to install Windows 11) to your device. 
+Make sure you select USB Flash Drive when prompted to download the file directly to your USB drive and format it properly for installation later.
+![ISO IMAGE](https://github.com/FRIEZEWANDABWA/se-assignment-1-setting-up-your-developer-environment-FRIEZEWANDABWA/blob/caf954fd1fc606dc825c27d0051ee45771fea277/image%201.png)
+
+
+THIRD IS RUNNING THE WINDOWS 11 FROM A USB FILE
+Plug the USB drive into the computer and restart the computer.
+Before the computer fully turns back on, hold the F8 key. The exact command will depend on your computer. 
+When prompted, choose the boot order and select the USB drive option as first. You’ll then be told to press any key to continue booting from your specified location.
+Your computer should start up as normal, but with Windows 11 prepared to install and run at the startup screen.
+
+After the above process, you will need to set up accout and preferences that you will use to login.
+
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 3. Set Up Version Control System:
